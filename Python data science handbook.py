@@ -1,4 +1,5 @@
 #Refer to the readme file before use
+# Be sure to figure out how to install packages and how to use IPython before proceeding. The help() or ..? could be very useful!
 
 #1. Data type in Python
 
