@@ -42,7 +42,7 @@ plt.hist(x, bins, histtype='step')
 plt.show();  #see the difference; we will dive deeper into visualization later
 ```
 
-In the above chunk of code, comments such like _Explanation_, _very important notes_ or the other 2 plots following the first one are just notes/trial for me.
+In the above block of code, comments such like _Explanation_, _very important notes_ or the other 2 plots following the first one are just notes/trial for me. Also, when I was practicing, _Ctrl + ' _ is extremely useful to just test on a short block of code only.
 
 Everything in the file is by typing, which I found being vastly different from reading and copying. Although these are really simple and basic codes, I believe that it is a great start as well a solid foundation to digest more sophisticated knowledge. Hopefully anyone reading it would found it helpful as well.
 
