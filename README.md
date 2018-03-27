@@ -6,7 +6,7 @@ The codes are essentially from https://jakevdp.github.io/PythonDataScienceHandbo
 
 Based on the original codes, I sometimes twist them a bit to help better understanding (for myself), so for any reader (if there will be any), there will be some discrepencies from the handbook. Usually I just improvise some mini-example for myself to help me really understand a function. For example:
 
- ``python
+ ```python
 # a small example here: binning data
 np.random.seed(42)
 x = np.random.randn(100) # an array of 100 elements of standard distribution (0,1); 100 here can also be multidimentional, e.g.[2,4]
@@ -39,7 +39,7 @@ plt.hist(counts,bins)
 plt.show();
 
 plt.hist(x, bins, histtype='step')
-plt.show();  #see the difference; we will dive deeper into visualization later``
+plt.show();  #see the difference; we will dive deeper into visualization later```
 
 In the above chunk of code, comments such like _Explanation_, _very important notes_ or the other 2 plots following the first one are just notes/trial for me.
 
