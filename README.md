@@ -39,7 +39,8 @@ plt.hist(counts,bins)
 plt.show();
 
 plt.hist(x, bins, histtype='step')
-plt.show();  #see the difference; we will dive deeper into visualization later```
+plt.show();  #see the difference; we will dive deeper into visualization later
+```
 
 In the above chunk of code, comments such like _Explanation_, _very important notes_ or the other 2 plots following the first one are just notes/trial for me.
 
